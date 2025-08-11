@@ -397,7 +397,8 @@ hr {
   .tag{
     right: 150px;
     flex-direction: row;
-    top: 5;
+    top: -10;
+    gap: 15px;
   }
   .h1-header {
     text-align: center;

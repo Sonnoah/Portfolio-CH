@@ -64,7 +64,7 @@ export default function Project() {
                 <img className="img-pj" src="assets/tyeso.png" />
               </div>
               <h3>Tyeso Stock</h3>
-              <p>Website for managing Tyeso in-store stock</p>
+              <p>Website for managing Tyeso in-store stock</p><br/>
               <div className="card-tag">
                 <p>Next.js</p><p>Prisma</p><p>Supabase</p><p>daisyUI</p>
               </div>
