@@ -79,7 +79,7 @@ section.section {
 .tag{
   position: absolute;
   top: 13%;
-  right: -60;
+  transform: translateX(16vw);  
   display: flex;
   flex-direction: column;
   gap: 14px;
