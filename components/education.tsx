@@ -1,7 +1,6 @@
 "use client";
 
-import { EduItem } from "./fucn/itextpop";
-
+import { EduItem } from "./fucn/eduitempop";
 
 export default function Education() {
   return (
