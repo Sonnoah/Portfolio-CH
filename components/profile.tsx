@@ -10,6 +10,9 @@ export default function Profile() {
           src="assets/img.jpg"
           alt="profile"
           className="photo"
+          width={500}
+          height={500}
+          style={{ objectFit: "cover", width: "100%", height: "auto" }}
           initial={{ opacity: 0, scale: 0.8, y: 20 }}   
           animate={{ opacity: 1, scale: 1, y: 0 }}      
           transition={{ duration: 0.8, ease: "easeOut" }}

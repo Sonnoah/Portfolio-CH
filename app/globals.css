@@ -36,9 +36,10 @@ section.section {
 
 .frame {
   position: relative;
-  width: 500px;        
-  max-width: 90vw;     
-  aspect-ratio: 1/1;   
+  width: 500px;
+  height: 500px;
+  max-width: 90vw;
+  max-height: 90vw;
 }
 
 .photo {
