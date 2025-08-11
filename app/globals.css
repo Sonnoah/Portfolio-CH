@@ -395,10 +395,9 @@ hr {
     font-size: 32px;
   }
   .tag{
-    right: 150px;
+    right: 120px;
     flex-direction: row;
     top: -10;
-    gap: 15px;
   }
   .h1-header {
     text-align: center;
