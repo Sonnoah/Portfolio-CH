@@ -10,7 +10,7 @@ type EduItemProps = {
   delay?: number;     
 };
 
-export function EduItem({ years, gpa, school, delay = 0 }: EduItemProps) {
+export function Eduitempop({ years, gpa, school, delay = 0 }: EduItemProps) {
   return (
     <>
       <motion.div
