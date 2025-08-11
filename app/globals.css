@@ -395,7 +395,7 @@ hr {
     font-size: 32px;
   }
   .tag{
-    right: 90px;
+    right: 150px;
     flex-direction: row;
     top: 5;
   }
