@@ -448,13 +448,14 @@ hr {
     display: block;
   }
   .CT-left, .CT-right {
+    display: block;
     margin-top: 10px;
   }
-
   .Ct-title p {
-    margin-right: 10px;
+
     font-size: 16px;
-    font-weight: 300;
-    color: #ffffff;
-}
+  }
+  .img-ct-h {
+    margin-right: 10px;
+  }
 }
