@@ -81,7 +81,7 @@ section.section {
 .tag{
   top: 10%;
   display: flex;
-  gap: 15px;
+  gap: 13px;
 }
 
 .tag a{
@@ -406,13 +406,14 @@ hr {
     line-height: 2;
   }
   .marker {
-  border-radius: 30px;
-  padding: 2px;
+    border-radius: 30px;
+    padding: 2px;
   }
 
   .tag a{
   margin: 20px 5px 20px;
-}
+  gap: ;
+  }
 
   .EDU{ 
     margin-inline: 10px;              
