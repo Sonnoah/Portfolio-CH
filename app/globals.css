@@ -81,11 +81,11 @@ section.section {
 .tag{
   top: 10%;
   display: flex;
-  gap: 13px;
+  gap: 5px;
 }
 
 .tag a{
-  margin: 10px 5px 10px;
+  margin: 5px 5px 5px;
   text-decoration:none;
   font-weight:800;
   font-size: 15px;
@@ -412,7 +412,6 @@ hr {
 
   .tag a{
   margin: 20px 5px 20px;
-  gap: ;
   }
 
   .EDU{ 
