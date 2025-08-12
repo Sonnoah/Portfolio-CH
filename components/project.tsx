@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { motion, Variants } from "framer-motion";
 
+
 export default function Project() {
     
   const container: Variants = {
@@ -89,7 +90,6 @@ export default function Project() {
             </div>
           </Link>
         </motion.div>
-
 
         <motion.div variants={item}>
           <Link href="https://github.com/Sonnoah/ThungThung-Pet-Shop" className="Link" target="_blank">

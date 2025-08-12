@@ -1,6 +1,7 @@
 
 
 import { motion } from "framer-motion";
+import Nav from "./nav";
 
 export default function Profile() {
    return (
@@ -29,6 +30,8 @@ export default function Profile() {
           <span>CHAYADA</span> <span className="accent">HOMNAN</span>
         </motion.h1>
       </div>
+
+      <Nav/>
 
        <motion.img
           src="assets/Arrow.gif"
