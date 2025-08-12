@@ -329,8 +329,7 @@ section.section {
 
 .CT-container {
   display: flex;
-  justify-content: space-between; 
-  align-items: center;            
+  justify-content: space-between;          
 }
 
 .CT-left, .CT-right {
@@ -445,4 +444,17 @@ hr {
     color: #fff;
     text-shadow: 4px 2px 4px rgba(0,0,0,0.5);
   }
+  .CT-container {
+    display: block;
+  }
+  .CT-left, .CT-right {
+    margin-top: 10px;
+  }
+
+  .Ct-title p {
+    margin-right: 10px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+}
 }
